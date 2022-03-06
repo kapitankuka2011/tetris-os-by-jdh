@@ -1,3 +1,3 @@
 # Tetris-OS
-a fork of deleted jdh's tetris os and with fixed error sb16 on no sound
+a fork of deleted jdh's tetris os and with fixed error sb16
 enjoy!
